@@ -1,4 +1,4 @@
-Emerging Trends and Opportunities - Shifting Paradigms in Workforce Dynamics and Skills Demands for AI-Enabled Jobs
+Shifting Paradigms in Workforce Dynamics and Skills Demands for AI-Enabled Jobs
 =====================================================================================================================================================================
 
 The integration of AI into our workplaces is transforming workforce dynamics and creating new demands for skills. In this chapter, we will explore the shifting paradigms in workforce dynamics and skills demands for AI-enabled jobs.

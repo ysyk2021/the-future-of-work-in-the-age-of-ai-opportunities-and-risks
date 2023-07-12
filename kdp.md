@@ -14,7 +14,7 @@ MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. H
 
 
 
-1. Artificial Intelligence (AI) in the workplace
+1. Artificial Intelligence in the workplace
 2. Future of work
 3. Workforce automation
 4. Augmented intelligence

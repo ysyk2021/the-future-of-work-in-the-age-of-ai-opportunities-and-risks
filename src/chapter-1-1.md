@@ -1,5 +1,3 @@
-The Impact of AI on the Future of Work and Global Employment Trends
-============================================================================================
 
 Artificial Intelligence (AI) has become a key driver of change in the workplace, with the potential to transform industries and the nature of work itself. In this chapter, we will explore the impact of AI on the future of work, as well as global employment trends that are shaping the workforce of tomorrow.
 

@@ -1,5 +1,3 @@
-Ethical, Legal, and Social Implications of AI Use in the Workplace
-===================================================================================================================================
 
 As AI technology continues to transform the workplace, it is important to consider the potential risks and challenges that may arise. In this chapter, we will explore the ethical, legal, and social implications of AI use in the workplace.
 

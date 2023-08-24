@@ -1,5 +1,3 @@
-Creating New Jobs and Industries with AI-Enabled Innovation and Development
-==================================================================================================================================================
 
 As AI continues to advance and become more integrated into our workplaces, it brings with it a host of opportunities and benefits. One of the most significant advantages of AI in the future of work is the potential to create new jobs and industries through AI-enabled innovation and development.
 

@@ -1,5 +1,3 @@
-Impact of AI on Jobs and Workforce Dynamics in Different Sectors and Industries
-==========================================================================================================================================================
 
 AI is poised to transform the world of work across different sectors and industries, from healthcare and retail to manufacturing and finance. In this chapter, we will explore how AI is likely to impact jobs and workforce dynamics in different sectors and industries.
 

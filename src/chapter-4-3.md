@@ -1,5 +1,3 @@
-Supporting Employee Training and Education for AI Skills and Knowledge
-=================================================================================================================================================================
 
 As organizations increasingly adopt AI technology, it is critical that leaders and managers support employee training and education to ensure successful adoption and integration. In this chapter, we will explore the role of organizations and leaders in managing AI adoption in the workplace, specifically through supporting employee training and education for AI skills and knowledge.
 

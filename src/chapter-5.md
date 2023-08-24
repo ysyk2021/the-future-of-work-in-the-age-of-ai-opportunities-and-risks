@@ -1,5 +1,3 @@
-Chapter 5: The Future of Work in Different Sectors and Industries with AI
-=========================================================================
 
 As AI technology continues to transform the workplace, different sectors and industries are experiencing its impact in unique ways. In this chapter, we will explore the future of work in different sectors and industries with AI.
 

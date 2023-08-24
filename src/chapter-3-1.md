@@ -1,5 +1,3 @@
-Job Displacements and Skills Gaps Caused by AI-Enabled Automation and Disruption
-=================================================================================================================================================
 
 As AI continues to advance and become more integrated into our workplaces, it brings with it a host of potential risks and challenges. One of the most significant concerns is the impact that AI-enabled automation and disruption will have on jobs and skills.
 

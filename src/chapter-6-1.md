@@ -1,5 +1,3 @@
-Developing Resilience and Adaptability for AI-Enabled Changes in the Workplace
-============================================================================================================================================
 
 The integration of AI into our workplaces is transforming the nature of work and the types of jobs available. To prepare for the future of work in the age of AI, it is essential to develop resilience and adaptability for AI-enabled changes in the workplace.
 

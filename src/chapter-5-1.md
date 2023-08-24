@@ -1,5 +1,3 @@
-AI Applications and Use Cases in Manufacturing, Healthcare, Finance, and Retail
-==========================================================================================================================================================
 
 As AI technology continues to transform the workplace, different sectors and industries are experiencing its impact in unique ways. In this chapter, we will explore the AI applications and use cases in manufacturing, healthcare, finance, and retail.
 

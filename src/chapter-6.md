@@ -1,5 +1,3 @@
-Chapter 6: Preparing for the Future of Work in the Age of AI
-============================================================
 
 As the integration of AI into the workplace continues, it is important to prepare for the changes that lie ahead. In this chapter, we will explore strategies for developing resilience and adaptability, building collaborative and cross-functional teams, and investing in AI research and development.
 

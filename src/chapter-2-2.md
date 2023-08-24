@@ -1,5 +1,3 @@
-Enabling Better Decision-Making and Strategy Execution with AI-Enabled Insights and Analytics
-====================================================================================================================================================================
 
 As AI continues to advance and become more integrated into our workplaces, it brings with it a host of opportunities and benefits. One of the most significant advantages of AI in the future of work is the potential to enable better decision-making and strategy execution through AI-enabled insights and analytics.
 

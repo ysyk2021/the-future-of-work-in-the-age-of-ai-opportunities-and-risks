@@ -1,5 +1,3 @@
-Investing in AI Research and Development for Sustainable and Human-Centered Outcomes
-==================================================================================================================================================
 
 As we move into the future of work in the age of AI, it is important to invest in AI research and development that prioritizes sustainable and human-centered outcomes. In this chapter, we will explore the benefits of such investments and provide strategies for doing so.
 

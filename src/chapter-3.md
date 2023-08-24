@@ -1,5 +1,3 @@
-Chapter 3: The Risks and Challenges of AI in the Future of Work
-===============================================================
 
 As AI continues to advance and become more integrated into our workplaces, it brings with it a host of potential risks and challenges. In this chapter, we will explore three key areas of concern: job displacements and skills gaps caused by AI-enabled automation and disruption, ethical, legal, and social implications of AI use in the workplace, and potential security and privacy risks with AI-enabled data and information systems.
 

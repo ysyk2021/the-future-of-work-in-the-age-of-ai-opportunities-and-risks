@@ -1,5 +1,3 @@
-Chapter 7: The Future of Work in a Post-AI World: Emerging Trends and Opportunities
-===================================================================================
 
 As we continue to integrate AI into our workplaces, the future of work is rapidly evolving. In this chapter, we will explore emerging trends and opportunities in a post-AI world.
 

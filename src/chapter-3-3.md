@@ -1,5 +1,3 @@
-Potential Security and Privacy Risks with AI-Enabled Data and Information Systems
-==================================================================================================================================================
 
 As AI continues to advance and become more integrated into our workplaces, it brings with it a host of potential risks and challenges. One of the most significant concerns is the security and privacy of data and information systems that are enabled by AI.
 

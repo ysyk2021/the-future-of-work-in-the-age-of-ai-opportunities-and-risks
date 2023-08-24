@@ -1,5 +1,3 @@
-Ensuring Ethical, Fair, and Inclusive AI Use and Implementation in the Workplace
-===========================================================================================================================================================================
 
 As organizations increasingly adopt AI technology, it is critical that leaders and managers ensure ethical, fair, and inclusive use and implementation of AI in the workplace. In this chapter, we will explore the role of organizations and leaders in managing AI adoption in the workplace, specifically through ensuring ethical, fair, and inclusive AI use and implementation.
 

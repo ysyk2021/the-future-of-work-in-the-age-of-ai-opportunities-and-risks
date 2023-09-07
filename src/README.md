@@ -8,3 +8,7 @@ The Future of Work in the Age of AI provides insights and guidance for business 
 Whether you are a CEO looking to transform your organization with AI or a worker seeking to adapt to the changing job market, this book is an essential resource for anyone interested in the future of work in the age of AI.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng

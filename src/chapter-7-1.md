@@ -1,5 +1,4 @@
-Chapter 8: Shifting Paradigms in Workforce Dynamics and Skills Demands for AI-Enabled Jobs
-==========================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the changing landscape of workforce dynamics and skills demands in the age of AI. The advancement of artificial intelligence (AI) technologies is reshaping traditional job roles and creating new opportunities that require a different set of skills. We will examine the paradigm shifts in workforce dynamics and the skills needed to thrive in AI-enabled jobs.
 

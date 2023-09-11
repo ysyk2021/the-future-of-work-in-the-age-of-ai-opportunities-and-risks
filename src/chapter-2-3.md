@@ -1,5 +1,4 @@
-Chapter 12: Creating New Jobs and Industries with AI-Enabled Innovation and Development
-=======================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore how artificial intelligence (AI) can drive innovation and create new job opportunities and industries in the evolving landscape of work. As AI technologies continue to advance, organizations have the potential to harness their power to spur economic growth, foster entrepreneurship, and pave the way for novel career paths.
 

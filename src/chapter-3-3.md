@@ -1,5 +1,4 @@
-Chapter 10: Potential Security and Privacy Risks with AI-Enabled Data and Information Systems
-=============================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will examine the potential security and privacy risks that arise with the integration of artificial intelligence (AI) in data and information systems. While AI offers numerous opportunities for innovation and efficiency, it also presents unique challenges in safeguarding sensitive data and ensuring privacy. We will explore these risks and discuss strategies to mitigate them effectively.
 

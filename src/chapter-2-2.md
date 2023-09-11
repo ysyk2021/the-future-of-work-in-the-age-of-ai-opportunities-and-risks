@@ -1,5 +1,4 @@
-Chapter 10: Enabling Better Decision-Making and Strategy Execution with AI-Enabled Insights and Analytics
-=========================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore how artificial intelligence (AI) can empower organizations to make better decisions and execute strategies effectively through the use of AI-enabled insights and analytics. As AI technologies continue to advance, organizations have the opportunity to leverage data-driven approaches to gain valuable insights, enhance decision-making processes, and drive successful strategy execution.
 

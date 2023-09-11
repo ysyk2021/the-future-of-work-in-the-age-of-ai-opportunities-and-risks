@@ -1,5 +1,4 @@
-Chapter 10: Supporting Employee Training and Education for AI Skills and Knowledge
-==================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the importance of supporting employee training and education to cultivate AI skills and knowledge in the context of the future of work. As artificial intelligence (AI) continues to shape various industries, organizations must invest in their workforce by providing opportunities for learning and development in AI-related fields.
 

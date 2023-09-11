@@ -1,5 +1,4 @@
-Chapter 7: Job Displacements and Skills Gaps Caused by AI-Enabled Automation and Disruption
-===========================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the impact of AI-enabled automation and disruption on job displacements and skills gaps in the workforce. While artificial intelligence (AI) technologies offer numerous opportunities for increased productivity and efficiency, they also bring significant changes to the job market. We will examine the causes of job displacements and skills gaps, discuss the implications for workers and organizations, and explore strategies to navigate this transformation successfully.
 

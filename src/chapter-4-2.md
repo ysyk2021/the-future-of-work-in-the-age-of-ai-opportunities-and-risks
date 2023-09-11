@@ -1,5 +1,4 @@
-Chapter 6: Ensuring Ethical, Fair, and Inclusive AI Use and Implementation in the Workplace
-===========================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the importance of ensuring ethical, fair, and inclusive use and implementation of artificial intelligence (AI) in the workplace. As AI technologies continue to shape various aspects of work, it is crucial to prioritize ethical considerations, fairness, and inclusivity to create a positive and equitable work environment.
 

@@ -1,5 +1,4 @@
-Chapter 6: The Rise of Collaborative and Co-Creative Work with AI and Humans
-============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the transformative impact of artificial intelligence (AI) on collaborative and co-creative work. As AI technologies continue to advance, they are becoming powerful tools for collaboration between humans and machines. We will delve into the opportunities and challenges that arise from this collaboration, as well as the skills and strategies necessary to leverage AI in a co-creative work environment.
 

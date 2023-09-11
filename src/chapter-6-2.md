@@ -1,5 +1,4 @@
-Chapter 12: Building Collaborative and Cross-Functional Teams with AI Expertise and Diversity
-=============================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the importance of building collaborative and cross-functional teams that possess both AI expertise and diversity in the context of the future of work. As organizations increasingly embrace artificial intelligence (AI), it becomes crucial to form teams that can effectively harness AI capabilities while leveraging diverse perspectives and skills.
 

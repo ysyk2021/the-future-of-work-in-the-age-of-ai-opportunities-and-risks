@@ -1,5 +1,4 @@
-Chapter 18: Investing in AI Research and Development for Sustainable and Human-Centered Outcomes
-================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the significance of investing in AI research and development (R\&D) to achieve sustainable and human-centered outcomes in the context of the future of work. As artificial intelligence (AI) continues to advance, it is crucial to prioritize investments that promote ethical considerations, sustainability, and the well-being of individuals and society as a whole.
 

@@ -1,5 +1,4 @@
-Chapter 14: Developing Resilience and Adaptability for AI-Enabled Changes in the Workplace
-==========================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the importance of developing resilience and adaptability to navigate the changes brought about by the integration of artificial intelligence (AI) in the workplace. As AI technologies continue to advance and transform industries, individuals and organizations must cultivate the skills and mindset necessary to thrive in an AI-enabled future.
 

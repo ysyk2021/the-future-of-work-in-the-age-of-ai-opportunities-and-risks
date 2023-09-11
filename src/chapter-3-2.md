@@ -1,5 +1,4 @@
-Chapter 8: Ethical, Legal, and Social Implications of AI Use in the Workplace
-=============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the ethical, legal, and social implications that arise from the integration of artificial intelligence (AI) in the workplace. While AI brings immense opportunities for increased productivity and efficiency, it also raises concerns regarding privacy, fairness, job displacement, and the overall impact on society. We will explore these implications and discuss strategies to navigate the complex intersection of AI and the workforce responsibly.
 
